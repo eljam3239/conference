@@ -20,7 +20,7 @@
             padding: 8px;
         }
         button {
-            background-color: #f44336;
+            background-color: #45a049;
             color: white;
             padding: 10px 15px;
             border: none;
@@ -28,7 +28,7 @@
             cursor: pointer;
         }
         button:hover {
-            background-color: #d32f2f;
+            background-color: #45a049;
         }
         .message {
             padding: 10px;
